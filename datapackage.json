@@ -15,7 +15,7 @@
           },
           {
             "name": "Country Code",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
