@@ -1,0 +1,42 @@
+{
+  "resources": [
+    {
+      "name": "cash-surp-def",
+      "path": "data/cash-surp-def.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "bytes": 127593,
+      "schema": {
+        "fields": [
+          {
+            "name": "Country Name",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "Country Code",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Year",
+            "type": "date",
+            "description": ""
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "description": ""
+          }
+        ]
+      }
+    }
+  ],
+  "name": "Cash-Surplus-Deficit",
+  "title": "Cash Surplus/Deficit, in % of GDP, from 1990 to 2013.",
+  "description": "Repository of the data package of the Cash Surplus or Deficit, in percentage of GDP, from 1990 to 2013.",
+  "homepage": "https://www.github.com/datasets/cash-surplus-deficit/",
+  "version": "0.1.0",
+  "license": "ODC-PDDL-1.0",
+  "repository": "git://github.com/gsilvapt/cash-surplus-deficit.git"
+}
