@@ -5,7 +5,7 @@ Repository of the data package of the Cash Surplus or Deficit, in percentage of 
 
 ## Updating the package
 
-To update the current package from its source, run `make Makefile`. It should update the package automatically, unless there were some changes in the source.
+To update the current package from its source, simply run `make` from your terminal. It should update the package automatically, unless there were some changes in the source.
 
 ## License
 
