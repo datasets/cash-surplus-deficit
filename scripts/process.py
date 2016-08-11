@@ -5,7 +5,7 @@ import numpy as np
 
 apiBase = "http://api.worldbank.org/indicator/"
 apiIndicator = "GC.BAL.CASH.GD.ZS"    # This can be changed to any other indicator
-FILE_NAME = 'gini-index.csv'
+FILE_NAME = 'cash-suprlus-deficit.csv'
 source = apiBase+apiIndicator+"?format=csv"
 
 
