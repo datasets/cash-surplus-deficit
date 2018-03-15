@@ -1,7 +1,13 @@
 {
   "description": "Repository of the data package of the Cash Surplus or Deficit, in percentage of GDP, from 1990 to 2013.",
   "homepage": "https://www.github.com/datasets/cash-surplus-deficit/",
-  "license": "ODC-PDDL-1.0",
+  "licenses": [
+    {
+      "name": "ODC-PDDL-1.0",
+      "path": "http://opendatacommons.org/licenses/pddl/",
+      "title": "Open Data Commons Public Domain Dedication and License v1.0"
+    }
+  ],
   "name": "cash-surplus-deficit",
   "repository": "git://github.com/gsilvapt/cash-surplus-deficit.git",
   "resources": [
