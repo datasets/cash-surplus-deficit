@@ -44,5 +44,6 @@
     }
   ],
   "title": "Cash Surplus/Deficit, in % of GDP, from 1990 to 2013.",
-  "version": "0.1.0"
+  "version": "0.1.0",
+  "collection": "economic-data"
 }
