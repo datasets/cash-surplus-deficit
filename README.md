@@ -1,4 +1,4 @@
-<a href="https://datahub.io/core/cash-surplus-deficit"><img src="https://badgen.net/badge/icon/View%20on%20datahub.io/orange?icon=https://datahub.io/datahub-cube-badge-icon.svg&label&scale=1.25)" alt="badge" /></a>
+<a className="gh-badge" href="https://datahub.io/core/cash-surplus-deficit"><img src="https://badgen.net/badge/icon/View%20on%20datahub.io/orange?icon=https://datahub.io/datahub-cube-badge-icon.svg&label&scale=1.25" alt="badge" /></a>
 
 Repository of the data package of the Cash Surplus or Deficit, in percentage of GDP, from 1990 to 2013.
 
