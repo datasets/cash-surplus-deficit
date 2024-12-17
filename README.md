@@ -10,6 +10,14 @@ Data comes originally from World Bank.
 
 To update the current package from its source, simply run `make` from your terminal. It should update the package automatically, unless there were some changes in the source.
 
+```bash
+# Run make
+make
+
+# Cleanup
+make clean
+```
+
 ## License
 
 All data is licensed under the Open Data Commons Public Domain Dedication and License. All code is licensed under the MIT/BSD license.

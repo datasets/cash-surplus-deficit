@@ -4,9 +4,10 @@ DATADIR=data
 SCRIPTDIR=scripts
 
 data:
+	pip install -r $(SCRIPTDIR)/requirements.txt
 	python $(SCRIPTDIR)/process.py
 
 clean:
-	rm -f $(DATADIR)/*
+	rm -rf $(SCRIPTDIR)/cache
 
 .PHONY: all data clean
