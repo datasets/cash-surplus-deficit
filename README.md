@@ -18,6 +18,11 @@ make
 make clean
 ```
 
+## Automation
+
+Up-to-date (auto-updates every year) cash-surplus-deficit dataset could be found on the datahub.io:
+https://datahub.io/core/cash-surplus-deficit
+
 ## License
 
 All data is licensed under the Open Data Commons Public Domain Dedication and License. All code is licensed under the MIT/BSD license.
